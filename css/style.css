@@ -1,0 +1,20 @@
+
+.bg-b{
+    background-color: #24353F;
+}
+.color{
+    color: #17A2B8;
+}
+input{
+    color: white !important;
+    background-color: transparent !important;
+}
+.shadow-black{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+a:hover{
+    text-decoration: underline !important;
+}
+.w-20{
+    width: 20%;
+}
